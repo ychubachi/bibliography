@@ -1,6 +1,6 @@
-* My bibliography
+# My bibliography
 
-** Use this bibliography as git submodule.
+## Use this bibliography as git submodule.
 
 In your repository,
 
