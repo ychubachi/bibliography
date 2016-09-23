@@ -1,0 +1,50 @@
+
+** TODO 2006 - 学習履歴特性を利用した職業推薦システムにおける職業と授業科目の関連度についての考察
+ :PROPERTIES:
+  :Custom_ID: Naohiro2006_2
+  :AUTHOR: 中鉢 直宏 \& 室田 真男
+  :JOURNAL:
+  :YEAR: 2006
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL:
+ :END:
+[[cite:Naohiro2006_2]]
+弟の論文
+
+** TODO 2015 - アジャイルソフトウェア開発教育のためのチケットシステムを用いたプロジェクト定量的評価手法の提案
+ :PROPERTIES:
+  :Custom_ID: IPSJ-JNL5602030
+  :AUTHOR: 井垣, 福安, 佐伯, 柗本 \& 楠本
+  :JOURNAL: 情報処理学会論文誌
+  :YEAR: 2015
+  :VOLUME: 56
+  :PAGES: 701--713
+  :DOI:
+  :URL:
+ :END:
+[[cite:IPSJ-JNL5602030]] [[file:/home/yc/Dropbox/Bibliography/bibtex-pdfs/IPSJ-JNL5602030.pdf][pdf]]
+
+ソフトウェア開発教育の一環として, Scrum や XP といったアジャイルソフトウェア開発を採り入
+れたチームによるソフトウェア開発演習を実施する大学が増加しつつある.一方で,演習によるアジャイ
+ルソフトウェア開発教育には複数の課題が存在する.代表的なアジャイル開発フレームワークの 1 つとし
+て知られる Scrum では,プロジェクトを検査し,自己組織的にプロジェクトの状況に適応し続けること
+が求められる.しかしながら,チームでの開発経験が少ない受講生には,プロジェクトの状況がどうであ
+るかを検査すること自体が困難である.また,受講生によるチーム開発では,担当するタスクの種類や量
+が偏りがちである.我々はこれらの課題の解決を目指し,チケット駆動開発と呼ばれる開発手法と Scrum
+フレームワークを組み合わせることにより,プロジェクトを定量的に評価する枠組みを構築した.実際に
+我々のプロジェクト定量評価の枠組みを用いてチームによるソフトウェア開発演習を実施し,複数の定量
+評価基準に基づいて,チームごとのプロジェクト評価を実施した.
+** TODO 2013 - A Study of the Characteristics of Developers' Activities in GitHub
+ :PROPERTIES:
+  :Custom_ID: 06754343
+  :AUTHOR: Onoue, Hata \& Matsumoto
+  :JOURNAL:
+  :YEAR: 2013
+  :VOLUME:
+  :PAGES: 7--12
+  :DOI: 10.1109/APSEC.2013.104
+  :URL: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6754343
+ :END:
+[[cite:06754343]] [[file:/home/yc/Dropbox/Bibliography/bibtex-pdfs/06754343.pdf][pdf]]
