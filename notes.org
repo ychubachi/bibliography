@@ -13,9 +13,10 @@
 [[cite:Naohiro2006_2]]
 弟の論文
 
-** TODO 2015 - アジャイルソフトウェア開発教育のためのチケットシステムを用いたプロジェクト定量的評価手法の提案
+** DONE 2015 - アジャイルソフトウェア開発教育のためのチケットシステムを用いたプロジェクト定量的評価手法の提案
+   CLOSED: [2016-09-23 金 15:02]
  :PROPERTIES:
-  :Custom_ID: IPSJ-JNL5602030
+  :Custom_ID: 井垣15
   :AUTHOR: 井垣, 福安, 佐伯, 柗本 \& 楠本
   :JOURNAL: 情報処理学会論文誌
   :YEAR: 2015
@@ -24,7 +25,7 @@
   :DOI:
   :URL:
  :END:
-[[cite:IPSJ-JNL5602030]] [[file:/home/yc/Dropbox/Bibliography/bibtex-pdfs/IPSJ-JNL5602030.pdf][pdf]]
+[[cite:井垣15]] [[file:bibtex-pdfs/%E4%BA%95%E5%9E%A315.pdf][pdf]]
 
 ソフトウェア開発教育の一環として, Scrum や XP といったアジャイルソフトウェア開発を採り入
 れたチームによるソフトウェア開発演習を実施する大学が増加しつつある.一方で,演習によるアジャイ
@@ -36,9 +37,11 @@
 フレームワークを組み合わせることにより,プロジェクトを定量的に評価する枠組みを構築した.実際に
 我々のプロジェクト定量評価の枠組みを用いてチームによるソフトウェア開発演習を実施し,複数の定量
 評価基準に基づいて,チームごとのプロジェクト評価を実施した.
-** TODO 2013 - A Study of the Characteristics of Developers' Activities in GitHub
+
+** DONE 2013 - A Study of the Characteristics of Developers' Activities in GitHub
+   CLOSED: [2016-09-23 金 14:54]
  :PROPERTIES:
-  :Custom_ID: 06754343
+  :Custom_ID: Onoue13
   :AUTHOR: Onoue, Hata \& Matsumoto
   :JOURNAL:
   :YEAR: 2013
@@ -47,4 +50,9 @@
   :DOI: 10.1109/APSEC.2013.104
   :URL: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6754343
  :END:
-[[cite:06754343]] [[file:/home/yc/Dropbox/Bibliography/bibtex-pdfs/06754343.pdf][pdf]]
+[[cite:Onoue13]] [[file:bibtex-pdfs/Onoue13.pdf][pdf]]
+
+活発なソフロウエアプロジェクトにはどのようなタイプの
+開発者がいるか？コーディングかコメントのどちらのコミュ
+ニケーションを好むか？スペシャリストかジェネラリスト
+か？多様な開発者がいた．
