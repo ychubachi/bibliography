@@ -1,50 +1,15 @@
-
-** TODO 2006 - 学習履歴特性を利用した職業推薦システムにおける職業と授業科目の関連度についての考察
+* biblography
+** TODO 2015 - アジャイルソフトウェア開発教育のためのチケットシステムを用いたプロジェクト定量的評価手法の提案
  :PROPERTIES:
-  :Custom_ID: Naohiro2006_2
-  :AUTHOR: 中鉢 直宏 \& 室田 真男
-  :JOURNAL:
-  :YEAR: 2006
-  :VOLUME:
-  :PAGES:
-  :DOI:
-  :URL:
- :END:
-[[cite:Naohiro2006_2]]
-弟の論文
-
-** DONE 2015 - アジャイルソフトウェア開発教育のためのチケットシステムを用いたプロジェクト定量的評価手法の提案
-   CLOSED: [2016-09-23 金 15:02]
- :PROPERTIES:
-  :Custom_ID: 井垣15
-  :AUTHOR: 井垣, 福安, 佐伯, 柗本 \& 楠本
+  :CUSTOM_ID: 井垣15
+  :AUTHOR: 井垣 宏, 福安 直樹, 佐伯 幸郎, 柗本 真佑 \& 楠本 真二
   :JOURNAL: 情報処理学会論文誌
   :YEAR: 2015
   :VOLUME: 56
-  :PAGES: 701--713
-  :DOI:
-  :URL:
+  :PAGES: 701-713
+  :DOI: 
+  :URL: https://ci.nii.ac.jp/naid/110009877384/
  :END:
-[[cite:井垣15]] [[file:bibtex-pdfs/%E4%BA%95%E5%9E%A315.pdf][pdf]]
 
-井垣らは，チケット駆動開発とScrumを組み合わせることにより,
-チームごとのプロジェクトを定量的に評価する枠組みを提案している cite:井垣15.
-
-** DONE 2013 - A Study of the Characteristics of Developers' Activities in GitHub
-   CLOSED: [2016-09-23 金 14:54]
- :PROPERTIES:
-  :Custom_ID: Onoue13
-  :AUTHOR: Onoue, Hata \& Matsumoto
-  :JOURNAL:
-  :YEAR: 2013
-  :VOLUME:
-  :PAGES: 7--12
-  :DOI: 10.1109/APSEC.2013.104
-  :URL: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6754343
- :END:
-[[cite:Onoue13]] [[file:bibtex-pdfs/Onoue13.pdf][pdf]]
-
-活発なソフロウエアプロジェクトにはどのようなタイプの
-開発者がいるか？コーディングかコメントのどちらのコミュ
-ニケーションを好むか？スペシャリストかジェネラリスト
-か？多様な開発者がいた．
+著者名にLaTeXが認識できない漢字あり．
+cite:井垣15
